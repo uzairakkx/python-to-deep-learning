@@ -1,10 +1,10 @@
-Python to Deep Learning 🚀
+#Python to Deep Learning 🚀
 
 A hands-on journey through Python, data science libraries, machine learning, and deep learning — taught and updated daily as part of a live instructor-led course.
 
 This repository contains the daily class material, exercises, notebooks, projects, and notes shared with students as the course progresses from Python fundamentals to Machine Learning and Deep Learning.
 
-👨‍🏫 About This Repo
+#👨‍🏫 About This Repo
 
 I'm using this repository as the official course companion for the classes I instruct. Each day's session — code, exercises, and notes — is uploaded here right after class, so students can review, practice, and catch up at their own pace.
 
@@ -26,7 +26,7 @@ Day 03	NumPy	⏳
 
 This table is updated after every class as new material is uploaded.
 
-📂 Repository Structure
+#📂 Repository Structure
 text
 python-to-deep-learning/
 │
@@ -42,7 +42,7 @@ python-to-deep-learning/
 
 Each folder holds that topic's class notebooks, exercise files, and any datasets used in session.
 
-🎯 Goal
+#🎯 Goal
 
 To build a strong foundation in Python and Data Science for the class, and gradually progress toward Machine Learning and Deep Learning through consistent, day-by-day instruction and practice.
 
